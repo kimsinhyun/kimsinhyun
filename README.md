@@ -73,21 +73,21 @@
         
 2.  **C++ CUDA Programing**:
     1. C++ CUDA Parallel Reduction Sum
-      - <img width=500px height=300px src="MGP_HW6.PNG"/>c
+      - <img width=500px height=300px src="MGP_HW6.png"/>c
       - Source Code: https://github.com/kimsinhyun/MultiCore_GPU_Programing/tree/hw6
       - Report: https://drive.google.com/file/d/1PboSiaiVV09v0By1DKGIQAiLXO9aoLP0/view?usp=sharing
     2. C++ CUDA Implement "VGG16" CNN Model
-      - <img width=500px height=300px src="MGP_HW7.PNG"/>c
+      - <img width=500px height=300px src="MGP_HW7.png"/>c
       - Source Code: https://github.com/kimsinhyun/MultiCore_GPU_Programing/tree/hw7
       - Report: https://drive.google.com/file/d/1JfLWcHVny5alB8gqregZJe8QZRZvIRAe/view?usp=sharing
 
 3.  **C++ Multi Core Programing**
     1. Optimize Multi Core Porbing Hash Table <br/>
-      - <img width=500px height=300px src="MGP_HW2.PNG"/>c
+      - <img width=500px height=300px src="MGP_HW2.png"/>c
       - Source Code: https://github.com/kimsinhyun/MultiCore_GPU_Programing/tree/hw2
       - Report: https://drive.google.com/file/d/1ZkeAsSE2uaLk5c2wJe-xpJWZU-1hC2dE/view?usp=sharing <br/>
     2. Advanced Parallel Page Rank Algorithm with OpenMP 
-      - <img width=500px height=300px src="MGP_HW4.PNG"/>c
+      - <img width=500px height=300px src="MGP_HW4.png"/>c
       - Source Code: https://github.com/kimsinhyun/MultiCore_GPU_Programing/tree/hw2
       - Report: https://drive.google.com/file/d/1q32UAF6z1g3XSCj7sfrx4zYGldo2RYt-/view?usp=sharing
       
@@ -104,7 +104,7 @@
       - Source Code: https://github.com/kimsinhyun/Compiler_Design_Code_Generator
       
 5. **C++ OpenGL Simple 3D Pac-Man**
-      - <img width=500px height=300px src="OpenGL.PNG"/>
+      - <img width=500px height=300px src="OpenGL.png"/>
       - Source Code: https://github.com/kimsinhyun/opengl_finalPJ
    
 6.  **Computer Vision**
