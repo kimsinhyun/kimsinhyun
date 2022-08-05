@@ -6,7 +6,7 @@
 # ✏️ Personal Info
 
 - Name: Kim sinhyun 김신현
-- University: Yonsei University (TSU)
+- University: Yonsei University
 - Email: ksh415622@yonsei.ac.kr
 
 # 🛠 Tech Stacks
