@@ -116,3 +116,6 @@
       - Source Code: https://github.com/kimsinhyun/computerVision_HW/tree/project2_ver2
     3.  Implement ResNet with PyTorch
       - Source Code: https://github.com/kimsinhyun/computerVision_HW/tree/hw3
+
+7. **Implementing Simple API with FastAPI**
+    - Source Code: https://github.com/kimsinhyun/FastAPI-
