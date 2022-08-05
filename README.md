@@ -76,6 +76,7 @@
       - <img width=700px height=450px src="MGP_HW6.png"/>c
       - Source Code: https://github.com/kimsinhyun/MultiCore_GPU_Programing/tree/hw6
       - Report: https://drive.google.com/file/d/1PboSiaiVV09v0By1DKGIQAiLXO9aoLP0/view?usp=sharing
+      
     2. C++ CUDA Implement "VGG16" CNN Model
       - <img width=700px height=450px src="MGP_HW7.png"/>c
       - Source Code: https://github.com/kimsinhyun/MultiCore_GPU_Programing/tree/hw7
@@ -85,7 +86,8 @@
     1. Optimize Multi Core Porbing Hash Table <br/>
       - <img width=700px height=450px src="MGP_HW2.png"/>c
       - Source Code: https://github.com/kimsinhyun/MultiCore_GPU_Programing/tree/hw2
-      - Report: https://drive.google.com/file/d/1ZkeAsSE2uaLk5c2wJe-xpJWZU-1hC2dE/view?usp=sharing <br/>
+      - Report: https://drive.google.com/file/d/1ZkeAsSE2uaLk5c2wJe-xpJWZU-1hC2dE/view?usp=sharing
+      
     2. Advanced Parallel Page Rank Algorithm with OpenMP 
       - <img width=700px height=450px src="MGP_HW4.png"/>c
       - Source Code: https://github.com/kimsinhyun/MultiCore_GPU_Programing/tree/hw2
