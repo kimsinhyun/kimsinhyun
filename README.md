@@ -118,4 +118,5 @@
       - Source Code: https://github.com/kimsinhyun/computerVision_HW/tree/hw3
 
 7. **Implementing Simple API with FastAPI**
+      - <img width=700px height=450px src="FastAPI_README.png"/>
     - Source Code: https://github.com/kimsinhyun/FastAPI-
