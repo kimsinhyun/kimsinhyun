@@ -1,4 +1,4 @@
-# 🙋🏻‍♂️ 데이터 엔지니어를 꿈꾸는 주니어 개발자입니다 🙋🏻‍♂️
+# 🙋🏻‍♂️ 주니어 개발자입니다 🙋🏻‍♂️
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=kimsinhyun&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=kimsinhyun&layout=compact&theme=dracula&hide=jupyter%20notebook)
