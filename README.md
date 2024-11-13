@@ -7,7 +7,7 @@
 
 - Name: Kim sinhyun 김신현
 - University: Yonsei University
-- Email: ksh415622@yonsei.ac.kr
+- Email: kimsinhyun415@gmail.com
 
 # 🛠 Tech Stacks
 
